@@ -1,2 +1,2 @@
 # Dotfiles
-Different dotfiles and stuff I want to save
+Different dotfiles and stuff I want to save.
