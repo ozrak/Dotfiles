@@ -1,2 +1,2 @@
 # Dotfiles
-Different dotfiles
+Different dotfiles, nothing fancy
