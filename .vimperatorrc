@@ -1,0 +1,11 @@
+"3.9 (created: 2015/02/15 15:49:05)
+
+"Change statusline to purple background
+highlight StatusLine color: gray; background: purple; font-weight: normal;
+
+"Get rid of url field and stuff
+set gui=none,tabs
+
+source! /home/ozrak/.vimperatorrc.local
+
+" vim: set ft=vimperator:
