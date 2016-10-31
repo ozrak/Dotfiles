@@ -1,2 +1,2 @@
 # Dotfiles
-Different dotfiles and stuff.
+Different dotfiles + some other stuff.
