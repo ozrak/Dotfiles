@@ -91,6 +91,8 @@ map <leader>f :NERDTreeFind<CR>
 "Eclim search for file in workspace
 map <leader>r :LocateFile<CR>
 map <leader>l :LocateFile<CR>
+"Eclim similar to eclipse F3 (open declaration)
+map <leader>3 :JavaSearchContext<CR>
 
 "Mappings end }}}
 
