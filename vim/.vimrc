@@ -85,7 +85,7 @@ map <C-n> :NERDTreeToggle<CR>
 "leader mappings
 let mapleader = ","
 
-map <leader>n :NERDTreeToggle<CR>
+"map <leader>n :NERDTreeToggle<CR>
 map <leader>f :NERDTreeFind<CR>
 
 "Eclim search for file in workspace
@@ -93,7 +93,14 @@ map <leader>r :LocateFile<CR>
 map <leader>l :LocateFile<CR>
 "Eclim similar to eclipse F3 (open declaration)
 map <leader>3 :JavaSearchContext<CR>
+"Eclim add/remove unused imports
+map <leader>i :JavaImportOrganize<CR>
+"Eclim code completion
+imap <leader><space> <C-x><C-u>
 
+nmap <leader>n :lnext<CR>
+nmap <leader>p :lprevious<CR>
+nmap <leader>o :lopen<CR>
 "Mappings end }}}
 
 "Coding stuff {{{
