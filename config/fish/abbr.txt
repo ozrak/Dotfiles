@@ -1,0 +1,9 @@
+abbr df 'df -h'
+abbr rm 'rm -i'
+abbr cp 'cp -i'
+abbr mv 'mv -i'
+abbr free 'free -m'
+abbr du 'du -h'
+abbr top htop
+abbr ll 'ls -laF'
+abbr eclim 'eclipse -vmargs -Dnailgun.server.port=10012'
