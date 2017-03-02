@@ -78,8 +78,8 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 
 "Vundle end }}}
-
 "Mappings {{{
+set timeoutlen=100
 map <C-n> :NERDTreeToggle<CR>
 
 "leader mappings
