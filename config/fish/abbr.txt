@@ -7,3 +7,4 @@ abbr du 'du -h'
 abbr top htop
 abbr ll 'ls -laF'
 abbr eclim 'eclipse -vmargs -Dnailgun.server.port=10012'
+abbr keyrate 'xset r rate 300 63'
